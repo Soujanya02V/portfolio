@@ -20,7 +20,7 @@ export const Navbar = () => {
           <FiMenu className='w-8 h-8 text-white' />
         </button>
 
-        {/* Desktop Nav */}
+        
         <nav className='hidden md:flex items-center space-x-7'>
           {NavbarLinks.map((link) => (
             <a key={link.id} href={link.link} className='hover:text-gray-200 text-lg'>
@@ -37,7 +37,7 @@ export const Navbar = () => {
         </nav>
       </div>
 
-      {/* Mobile Nav */}
+      
       <div
         className={`${
           isOpen ? 'block' : 'hidden'
