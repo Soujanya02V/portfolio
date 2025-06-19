@@ -31,7 +31,7 @@ export const About = () => {
             I'm a full stack developer with a passion for turning ideas into interactive digital experiences. With a strong foundation in the MERN stack, I enjoy building fast, intuitive, and user-friendly web applications.
           </p>
 
-          {/* Show this part only if showMore is true */}
+          
           {showMore && (
             <p className='text-base sm:text-lg md:text-xl text-gray-300 mb-6 leading-relaxed'>
               My work blends technical precision with creative problem-solving — whether it’s designing responsive interfaces or managing complex backend logic.
