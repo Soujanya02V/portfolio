@@ -38,7 +38,7 @@ const Contact = () => {
     } catch (error) {
       alert("Something went wrong. Please try again.");
     } finally {
-      window.location.href = "/"; // Redirect to first page
+      window.location.href = "/"; 
     }
   };
 
@@ -47,7 +47,7 @@ const Contact = () => {
       id="contact"
       className="min-h-screen bg-[#0f0f1b] text-white py-16 px-6 flex flex-col lg:flex-row items-center justify-center gap-12"
     >
-      {/* Girl Image with AOS animation */}
+      
       <div className="w-full lg:w-1/2 flex justify-center">
         <img
           src="/assets/phone.png"
@@ -58,7 +58,7 @@ const Contact = () => {
         />
       </div>
 
-      {/* Contact Form */}
+    
       <div className="w-full lg:w-1/2">
         <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-center lg:text-left">
           Contact <span className="text-purple-400">Me</span>
