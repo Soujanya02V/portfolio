@@ -60,7 +60,7 @@ dynamic tech environment.
                 </section>
 
                 <figure data-aos="fade-up" data-aos-delay="500" className='flex-1 flex justify-center md:justify-end mt-0'>
-                    <img src="/assets/imghero.png" alt="hero image" className='h-[300px] sm:h-[400px] md:h-[485px] e-[250px] sm:w-[480px] object-cover rounded-lg'/>
+                    <img src="" alt="hero image" className='h-[300px] sm:h-[400px] md:h-[485px] e-[250px] sm:w-[480px] object-cover rounded-lg'/>
                 </figure>
              </main>
             </div>
