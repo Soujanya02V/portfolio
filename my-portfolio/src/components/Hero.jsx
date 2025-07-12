@@ -27,7 +27,7 @@ const Hero = () => {
                             Soujanya Maharudra
                         </h1>
                         <h2 className='text-xl sm:text-4xl md:text-2xl font-bold  text-[#3e0f4a] md:text-[#c744ec] mb-2'>
-                            FullStack Developer
+                            FullStack Developer.
                         </h2>
                     </header>
                     <p className='text-base sm:text-lg md:text-lg text-gray-200 mb-6'>
